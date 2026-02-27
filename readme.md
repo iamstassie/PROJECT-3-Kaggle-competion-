@@ -59,4 +59,5 @@
  ### Kaggle competition
 
 
- Результаты [тут](https://github.com/iamstassie/PROJECT-3-Kaggle-competion-/blob/main/submission.csv)
+ Результаты [тут](https://www.kaggle.com/code/iamstassie/hotel-booking-project/output?select=submission.csv)
+
