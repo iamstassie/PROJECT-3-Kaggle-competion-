@@ -1,9 +1,13 @@
 # PROJECT 3 Competition Kaggle
 ## Оглавление
 [1. Описание проекта](#описание-проекта)
+
 [2. Краткая информация о данных](#краткая-информация-о-данных)
+
 [3. Этапы работы над проектом](#этапы-работы-над-проектом)
+
 [4. Вывод](#выводы)
+
 [5. Kaggle competition](#kaggle-competition)
 
 
@@ -53,5 +57,6 @@
  :arrow_up:[к оглавлению](#оглавление)
 
  ### Kaggle competition
+
 
  Результаты [тут](https://github.com/iamstassie/PROJECT-3-Kaggle-competion-/blob/main/submission.csv)
